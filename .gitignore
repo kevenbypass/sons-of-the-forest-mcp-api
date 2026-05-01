@@ -1,0 +1,30 @@
+# .NET build output
+BridgeMod/bin/
+BridgeMod/obj/
+*.dll
+*.pdb
+*.exe
+*.deps.json
+*.runtimeconfig.json
+
+# Python cache / environments
+MCP_Server/__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Local editor/system files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+
+# Local config overrides
+.env
+*.local.json
+*.local.ps1

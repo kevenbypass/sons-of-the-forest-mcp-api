@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "UnityExplorerBridge",
+  "author": "OpenAI Codex",
+  "version": "0.1.3",
+  "description": "Safe JSON bridge for MCP access to Sons Of The Forest via RedLoader.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/kevenbypass/sons-of-the-forest-mcp-api"
+}
